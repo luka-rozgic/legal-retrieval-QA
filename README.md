@@ -24,4 +24,4 @@ In this project we addresses the critical need for robust, maintainable approach
 - Analyze impact of action sets and rewards on retrieval and end-to-end performance   
 
 ## Project Document
-[![Button Text](img.shields.io)](https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/RAGReasoningQAProject.pdf)
+[![Project Report](img.shields.io)](https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/RAGReasoningQAProject.pdf)
