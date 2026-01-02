@@ -27,4 +27,4 @@ In this project we addresses the critical need for robust, maintainable approach
 [![Project Report](img.shields.io)](https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/RAGReasoningQAProject.pdf)
 
 ## Project Notebook
-[![Project Report](img.shields.io)](https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/RAGReasoningQAProject.pdf)
+[![Project Notebook](img.shields.io)]([https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/RAGReasoningQAProject.pdf](https://github.com/luka-rozgic/legal-retrieval-QA/blob/main/housing_statutes_RAG_QA.ipynb))
